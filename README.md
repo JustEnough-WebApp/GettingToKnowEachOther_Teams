@@ -1,5 +1,7 @@
 # GettingToKnowEachOther_Teams
 
-Authors: 
+Authors: TODO
+
+https://deadpoetsscrumciety.azurewebsites.net
 
 TODO
