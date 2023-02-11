@@ -1,7 +1,8 @@
 # GettingToKnowEachOther_Teams
 
-Authors: TODO
+https://deadpoetsscrumciety.azurewebsites.net  
 
-https://deadpoetsscrumciety.azurewebsites.net
-
-TODO
+Authors: TODO  
+  
+Credit:  
+Image mapping coordinates from https://www.image-map.net/  
