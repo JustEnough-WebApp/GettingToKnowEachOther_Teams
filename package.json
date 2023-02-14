@@ -1,0 +1,20 @@
+{
+  "name": "gettingtoknoweachother_teams",
+  "version": "1.0.0",
+  "description": "https://deadpoetsscrumciety.azurewebsites.net",
+  "main": "app.js",
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPSC440-DeadPoetsScrumciety/GettingToKnowEachOther_Teams.git"
+  },
+  "author": "DeadPoetsScrumciety Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CPSC440-DeadPoetsScrumciety/GettingToKnowEachOther_Teams/issues"
+  },
+  "homepage": "https://github.com/CPSC440-DeadPoetsScrumciety/GettingToKnowEachOther_Teams#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
