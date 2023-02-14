@@ -6,6 +6,14 @@ table {width: 80vh}
     height: 100vh; 
 }
 
+#Members p {
+    margin-bottom: 2px;
+}
+
+#Members li {
+    margin-top: 1px;
+}
+
 .center {
     display: block;
     margin-left: auto;
