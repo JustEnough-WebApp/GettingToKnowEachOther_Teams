@@ -1,6 +1,10 @@
 a {color: black;}
 h1 {text-align: center;}
 
+#Intro {
+    height: 100vh; 
+}
+
 .center {
     display: block;
     margin-left: auto;
