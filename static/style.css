@@ -1,5 +1,6 @@
 a {color: black;}
 h1 {font-size: 32pt; text-align: center;}
+table {width: 80vh}
 
 #Intro {
     height: 100vh; 
