@@ -1,18 +1,11 @@
 a {color: black;}
 h1 {font-size: 32pt; text-align: center;}
-table {text-align: left; width: 100%}
+
 
 #Intro {
     height: 100vh; 
 }
 
-#Members p {
-    margin-bottom: 2px;
-}
-
-#Members li {
-    margin-top: 1px;
-}
 
 .center {
     display: block;
