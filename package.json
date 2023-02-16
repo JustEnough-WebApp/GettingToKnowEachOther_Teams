@@ -10,6 +10,9 @@
   },
   "author": "DeadPoetsScrumciety Team",
   "license": "ISC",
+  "scripts":{
+    "start": "node index.js"
+  },
   "bugs": {
     "url": "https://github.com/CPSC440-DeadPoetsScrumciety/GettingToKnowEachOther_Teams/issues"
   },
