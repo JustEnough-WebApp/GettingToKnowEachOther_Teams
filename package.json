@@ -2,7 +2,7 @@
   "name": "gettingtoknoweachother_teams",
   "version": "1.0.0",
   "description": "https://deadpoetsscrumciety.azurewebsites.net",
-  "main": "app.js",
+  "main": "index.js",
   
   "repository": {
     "type": "git",
