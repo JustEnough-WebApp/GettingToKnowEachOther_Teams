@@ -7,16 +7,12 @@ li {font-size: 14pt; margin-left: 20px; margin-bottom: 1px;}
 p {font-size: 14pt; margin-left: 30px;}
 
 
-#Intro {
-    height: 100vh; 
-}
-
 #Members {
-    background-color: white;
+    background-color: #EAEAEA;      /* off-white */
 }
 
 #Portfolio {
-    background-color: white;
+    background-color: #EAEAEA;      /* off-white */
 }
 
 
@@ -27,5 +23,5 @@ p {font-size: 14pt; margin-left: 30px;}
 }
 
 .fullScreen {
-    height: 100vh;
+    height: 100vh;                  /* full height of  viewport */
 }
