@@ -6,6 +6,7 @@ Authors: TODO
   
 Credit:  
 Background image from https://www.toptal.com/designers/subtlepatterns/  
+Fonts from https://fonts.google.com/   
 Image mapping coordinates from https://www.image-map.net/  
   
   

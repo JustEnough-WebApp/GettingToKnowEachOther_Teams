@@ -1,18 +1,49 @@
 a {color: black;}
 body {background-image: url('./images/background.webp');}
-h1 {color:white; font-size: 32pt; text-align: center;}
-h2 {font-size: 24pt; text-align: center;}
-h3 {font-size: 18pt; margin-left: 15px; margin-bottom: 0px;}
-li {font-size: 14pt; margin-left: 20px; margin-bottom: 1px;}
-p {font-size: 14pt; margin-left: 30px;}
+
+h1 {
+    color:white; 
+    font-family: 'Alegreya Sans SC', sans-serif; 
+    font-size: 38pt; 
+    font-weight: 500; 
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Alegreya Sans SC', sans-serif; 
+    font-size: 28pt; 
+    font-weight: 500; 
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Alegreya Sans SC', sans-serif; 
+    font-size: 18pt; 
+    font-weight: 400; 
+    margin-left: 15px; 
+    margin-bottom: 0px;
+}
+
+li {
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-size: 14pt; 
+    margin-left: 20px; 
+    margin-bottom: 1px;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-size: 14pt; 
+    margin-left: 30px;
+}
 
 
 #Members {
-    background-color: #EAEAEA;      /* off-white */
+    background-color: #EAEAEA;                      /* off-white */
 }
 
 #Portfolio {
-    background-color: #EAEAEA;      /* off-white */
+    background-color: #EAEAEA;                      /* off-white */
 }
 
 
@@ -23,5 +54,5 @@ p {font-size: 14pt; margin-left: 30px;}
 }
 
 .fullScreen {
-    height: 100vh;                  /* full height of  viewport */
+    height: 100vh;                                  /* full height of  viewport */
 }
