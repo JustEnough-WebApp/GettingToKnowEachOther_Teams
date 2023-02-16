@@ -39,11 +39,11 @@ p {
 
 
 #Members {
-    background-color: #EAEAEA;                      /* off-white */
+    background-color: #EAEAEA;                              /* off-white */
 }
 
 #Portfolio {
-    background-color: #EAEAEA;                      /* off-white */
+    background-color: #EAEAEA;                              /* off-white */
 }
 
 
@@ -54,5 +54,5 @@ p {
 }
 
 .fullScreen {
-    height: 100vh;                                  /* full height of  viewport */
+    height: 100vh;                                          /* full height of  viewport */
 }
