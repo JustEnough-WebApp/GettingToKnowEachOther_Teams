@@ -1,7 +1,8 @@
 # GettingToKnowEachOther_Teams
 
-https://deadpoetsscrumciety.azurewebsites.net  
-
+main: https://deadpoetsscrumciety.azurewebsites.net  
+secondary: https://deadpoetsscrumciety-team.azurewebsites.net/   
+  
 Authors: Alex, Julie, Le, Soren, Vy  
   
 Credit:  
