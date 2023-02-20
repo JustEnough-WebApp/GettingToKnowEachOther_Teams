@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'deadpoetsscrumciety-team'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2B6B888F22874C24AC698CE46FB3547F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DBC983E17BA249E1BF277D6ED3E9EA10 }}
           package: .
